@@ -1,1 +1,1 @@
-default_app_config = 'terminology.apps.TerminologyConfig'
+default_app_config = "terminology.apps.TerminologyConfig"
